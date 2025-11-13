@@ -30,7 +30,7 @@ Currently learning advanced React, Node.js, and penetration testing techniques.
 ### 📫 Contact Me
 📧 **Email:** zakiawan978@gmail.com 
 🌐 **Website:** toolivia.netlify.app [ That is the Simple Tool Website that is made by me ] 
-💼 **LinkedIn:** linkedin.com/in/zulqarnain-manzoor-3b1327371  
+💼 **LinkedIn:** https://www.linkedin.com/in/zulqarnain-manzoor-3b1327371  
 🐙 **GitHub:** https://github.com/Zulqarnain-dev-sketch
 
 ---
